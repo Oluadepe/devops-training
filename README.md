@@ -1,3 +1,4 @@
 # devops-training
-Hello, World!
-This is Poland branch
+Hello World!
+This is China branch
+
